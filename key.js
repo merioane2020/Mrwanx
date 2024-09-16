@@ -1,9 +1,8 @@
-<!DOCTYPE key>
-<script>
+
 loopy() 
  function loopy() { 
  var sWord ="MRWANX" 
- while (sWord != "1") {// Pass
+ while (sWord != "MRWANX") {// Pass
  sWord = prompt("𝘌𝘯𝘵𝘦𝘳 𝘛𝘩𝘦 𝘒𝘦𝘺 :")  
  } 
  
