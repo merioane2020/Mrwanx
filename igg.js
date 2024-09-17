@@ -611,10 +611,10 @@ function sk() {    h5gg.clearResults();
     }
     searchAndReplace(3145840, 49, 'I32');
 }
-function Speed() {
-                h5gg.clearResults();
+function Speed() {    
+	  alert('speed x5 DONE ')
+		  h5gg.clearResults();
                 h5gg.searchNumber('4397530849764387586', 'I64', '0x100000000', '0x160000000');
                 h5gg.editAll('4397530849758414900', 'I64');
-	alert('speed x5  DONE ')
             }
         }
